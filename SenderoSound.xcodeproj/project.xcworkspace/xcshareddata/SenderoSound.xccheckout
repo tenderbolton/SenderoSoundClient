@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>11C894E4-D86C-4837-82C1-CB50E4C66E19</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SenderoSound</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C2C50A0EDF70EE66636BBE641F1DC82C8C511612</key>
+		<string>https://github.com/tenderbolton/SenderoSoundClient.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SenderoSound.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C2C50A0EDF70EE66636BBE641F1DC82C8C511612</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tenderbolton/SenderoSoundClient.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C2C50A0EDF70EE66636BBE641F1DC82C8C511612</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C2C50A0EDF70EE66636BBE641F1DC82C8C511612</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SenderoSound</string>
+		</dict>
+	</array>
+</dict>
+</plist>
